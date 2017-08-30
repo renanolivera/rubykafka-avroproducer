@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../rubykafka-avroproducer/.idea/highlevelproducer.iml" filepath="$PROJECT_DIR$/../rubykafka-avroproducer/.idea/highlevelproducer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/rubykafka-avroproducer.iml" filepath="$PROJECT_DIR$/.idea/rubykafka-avroproducer.iml" />
     </modules>
   </component>
 </project>
