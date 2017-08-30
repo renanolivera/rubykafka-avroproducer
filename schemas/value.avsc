@@ -1,0 +1,18 @@
+{
+  "type": "record",
+  "name": "value",
+  "fields": [
+    {
+      "name": "description",
+      "type": "string"
+    },
+    {
+      "name": "tables",
+      "type": {
+                "type":"array",
+                "items":"string"
+              }
+
+    }
+  ]
+}
